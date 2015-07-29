@@ -1,20 +1,20 @@
 # awesome-vantagejs
 
-A curated list of delightful Vantage.js extensions.
+A curated list of delightful [Vantage.js](https://github.com/dthree/vantage) extensions.
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## REPL / Inspection
 
-- [REPL](#https://github.com/vantagejs/vantage-repl)
+- [REPL](https://github.com/vantagejs/vantage-repl)
 
 ## Authentication
 
-- [Basic Authentication](#https://github.com/vantagejs/vantage-auth-basic)
+- [Basic Authentication](https://github.com/vantagejs/vantage-auth-basic)
 
 ## Misc
 
-- [Hacker News](#https://github.com/vantagejs/vantage-hacker-news)
+- [Hacker News](https://github.com/vantagejs/vantage-hacker-news)
 
 ## Contribute
 
