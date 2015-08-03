@@ -12,8 +12,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Basic Authentication](https://github.com/vantagejs/vantage-auth-basic) - Basic authentication packaged with Vantage. Mirrors SSH authentication, however with credentials declared in the Node instance as opposed to PAM authentication.
 
-#### Silly
+#### Misc
 
+- [Watch](https://github.com/vantagejs/vantage-watch) - Updates your live Vantage extensions in realtime.
 - [Hacker News](https://github.com/vantagejs/vantage-hacker-news) - Pulls the top trending items from Hacker News.
 
 ## Contribute
