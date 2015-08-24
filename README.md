@@ -1,20 +1,21 @@
-# awesome-vantagejs
+# Awesome Vantage.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of delightful [Vantage.js](https://github.com/dthree/vantage) extensions.
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
-## REPL / Inspection
+#### REPL / Inspection
 
-- [REPL](https://github.com/vantagejs/vantage-repl)
+- [REPL](https://github.com/vantagejs/vantage-repl) - Default REPL extension packaged with Vantage. 
 
-## Authentication
+#### Authentication
 
-- [Basic Authentication](https://github.com/vantagejs/vantage-auth-basic)
+- [Basic Authentication](https://github.com/vantagejs/vantage-auth-basic) - Basic authentication packaged with Vantage. Mirrors SSH authentication, however with credentials declared in the Node instance as opposed to PAM authentication.
 
-## Misc
+#### Misc
 
-- [Hacker News](https://github.com/vantagejs/vantage-hacker-news)
+- [Watch](https://github.com/vantagejs/vantage-watch) - Updates your live Vantage extensions in realtime.
+- [Hacker News](https://github.com/vantagejs/vantage-hacker-news) - Pulls the top trending items from Hacker News.
 
 ## Contribute
 
