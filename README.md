@@ -1,6 +1,4 @@
-# Awesome Vantage.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
-# Awesome Vorpal.js
+# Awesome Vorpal.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of delightful [Vorpal.js](https://github.com/dthree/vorpal)-based projects and extensions.
 
@@ -15,7 +13,7 @@ Vorpal is Node's first framework for building immersive CLI applications. These 
 
 ## Vorpal Extensions
 
-Vorpal supports community extensions, which add to the functionality of Vorpal programmatically, or on the fly.
+Vorpal supports community extensions, which add to the functionality of Vorpal programmatically or on the fly.
 
 ##### REPL / Inspection
 
@@ -23,7 +21,7 @@ Vorpal supports community extensions, which add to the functionality of Vorpal p
 
 ##### Realtime
 
-- [Use](https://github.com/vorpaljs/vorpal-use) - Import Vorpal extensions live.
+- [Use](https://github.com/vorpaljs/vorpal-use) - Import Vorpal extensions live: while your app is running.
 - [Watch](https://github.com/vorpaljs/vorpal-watch) - Updates your live Vorpal extensions in realtime.
 
 ##### Misc
