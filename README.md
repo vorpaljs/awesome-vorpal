@@ -15,6 +15,10 @@ Vorpal is Node's first framework for building immersive CLI applications. These 
 
 Vorpal supports community extensions, which add to the functionality of Vorpal programmatically or on the fly.
 
+##### POSIX Command Implementations
+
+- [Less](https://github.com/vorpaljs/vorpal-less) - Implementation of the `less` command.
+
 ##### REPL / Inspection
 
 - [REPL](https://github.com/vorpaljs/vorpal-repl) - Drops your CLI into a REPL within your app's context.
