@@ -30,6 +30,7 @@ Vorpal supports community extensions, which add to the functionality of Vorpal p
 
 ##### Misc
 
+- [Tour](https://github.com/vorpaljs/vorpal-tour) - Build an interactive tour for your Vorpal app.
 - [Hacker News](https://github.com/vorpaljs/vorpal-hacker-news) - Pulls the top trending items from Hacker News.
 
 ## Vantage-only Extensions
