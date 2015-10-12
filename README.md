@@ -8,6 +8,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [wat](https://github.com/dthree/wat) - Community-built syntax cheat-sheets for every language, platform and library.
 - [vantage.js](https://github.com/dthree/vantage) - Vorpal with wings: `CLI` + `SSH` + `REPL` for your live Node app.
+- [metronome](https://github.com/AljoschaMeyer/metronome-cli) - Turns your CLI into a metronome, adjustable on the fly.
 
 ### Vorpal extensions
 
