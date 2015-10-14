@@ -32,6 +32,9 @@ Vorpal supports community extensions, which add to the functionality of Vorpal p
 - [tour](https://github.com/vorpaljs/vorpal-tour) - Build an interactive tour for your Vorpal app.
 - [hacker-news](https://github.com/vorpaljs/vorpal-hacker-news) - Pulls the top trending items from Hacker News.
 
+##### Category Name
+- [setorprint](https://github.com/AljoschaMeyer/vorpal-setorprint) - Quickly generate commands which either set or print a parameter.
+
 ### Vantage-only extensions
 
 [Vantage.js](https://github.com/dthree/vantage) extends Vorpal, giving it client / server functionality. While Vantage supports all Vorpal extensions, the following extensions are only applicable to Vantage.
