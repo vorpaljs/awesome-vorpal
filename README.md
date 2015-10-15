@@ -25,12 +25,15 @@ Vorpal supports community extensions, which add to the functionality of Vorpal p
 ##### Realtime
 
 - [use](https://github.com/vorpaljs/vorpal-use) - Import Vorpal extensions live: while your app is running.
-- [watch](https://github.com/vorpaljs/vorpal-watch) - Updates your live Vorpal extensions in realtime.
 
 ##### Misc
 
 - [tour](https://github.com/vorpaljs/vorpal-tour) - Build an interactive tour for your Vorpal app.
 - [hacker-news](https://github.com/vorpaljs/vorpal-hacker-news) - Pulls the top trending items from Hacker News.
+
+##### Vorpal development tools
+- [watch](https://github.com/vorpaljs/vorpal-watch) - Updates your live Vorpal extensions in realtime.
+- [setorprint](https://github.com/AljoschaMeyer/vorpal-setorprint) - Quickly generate commands which either set or print a parameter. Think instant getters/setters for the console.
 
 ### Vantage-only extensions
 
