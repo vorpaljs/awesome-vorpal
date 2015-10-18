@@ -17,6 +17,7 @@ Vorpal supports community extensions, which add to the functionality of Vorpal p
 ##### POSIX implementations
 
 - [less](https://github.com/vorpaljs/vorpal-less) - Implementation of the `less` command.
+- [grep](https://github.com/vorpaljs/vorpal-grep) - Implementation of the `grep` command.
 
 ##### REPL
 
