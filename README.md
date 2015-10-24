@@ -35,6 +35,7 @@ Vorpal supports community extensions, which add to the functionality of Vorpal p
 ##### Vorpal development tools
 - [watch](https://github.com/vorpaljs/vorpal-watch) - Updates your live Vorpal extensions in realtime.
 - [setorprint](https://github.com/AljoschaMeyer/vorpal-setorprint) - Quickly generate commands which either set or print a parameter. Think instant getters/setters for the console.
+- [log](https://github.com/AljoschaMeyer/vorpal-log) - Logging utility for Vorpal - comes with logging levels, formatters, and is extensible. Currently not working with vantage.
 
 ### Vantage-only extensions
 
