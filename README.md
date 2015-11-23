@@ -11,6 +11,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [metronome](https://github.com/AljoschaMeyer/metronome-cli) - Turns your CLI into a metronome, adjustable on the fly.
 - [itunes remote](https://github.com/mischah/itunes-remote/) - Control iTunes via the CLI.
 
+### Community / Tutorials
+
+- [Tutorial by Brian Rinaldi] (http://developer.telerik.com/featured/creating-node-js-command-line-utilities-improve-workflow/)
+
 ### Vorpal extensions
 
 Vorpal supports community extensions, which add to the functionality of Vorpal programmatically or on the fly.
