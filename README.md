@@ -10,6 +10,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [vantage.js](https://github.com/dthree/vantage) - Vorpal with wings: `CLI` + `SSH` + `REPL` for your live Node app.
 - [metronome](https://github.com/AljoschaMeyer/metronome-cli) - Turns your CLI into a metronome, adjustable on the fly.
 - [itunes remote](https://github.com/mischah/itunes-remote/) - Control iTunes via the CLI.
+- [fastack](https://github.com/fastack/cli) - A zero-configuration development tool that makes developing client-side-only apps easy
 
 ### Community / Tutorials
 
