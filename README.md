@@ -6,6 +6,15 @@ A curated list of delightful [Vorpal](https://github.com/dthree/vorpal)-based pr
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
+## Table of Contents
+
+- [Community](#community)
+- [Tutorials](#tutorials)
+- [Projects](#projects)
+- [Extensions](#extensions)
+- [Contribute](#contribute)
+- [License](#license)
+
 ## Community 
 
 - [Chat](https://gitter.im/dthree/vorpal)
