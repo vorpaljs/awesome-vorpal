@@ -15,59 +15,51 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [By Brian Rinaldi] (http://developer.telerik.com/featured/creating-node-js-command-line-utilities-improve-workflow/)
 
-An excellent introduction to Vorpal, Brian Rinaldi from Telerik walks you through developing a sophisticated Vorpal app from scratch. 
+  An excellent introduction to Vorpal, Brian Rinaldi from Telerik walks you through developing a sophisticated Vorpal app from scratch. 
 
 - [By Ramon Gebben](http://daily-javascript.com/articles/vorpal/)
 
-A brief introduction to Vorpal by the author of [daily-javascript.com](daily-javascript.com).
+  A brief introduction to Vorpal by the author of [daily-javascript.com](daily-javascript.com).
 
-## Projects built with Vorpal
+## Projects
 
-- [wat](https://github.com/dthree/wat) - Community-built syntax cheat-sheets for every language, platform and library.
-- [vantage.js](https://github.com/dthree/vantage) - Vorpal with wings: `CLI` + `SSH` + `REPL` for your live Node app.
-- [metronome](https://github.com/AljoschaMeyer/metronome-cli) - Turns your CLI into a metronome, adjustable on the fly.
-- [itunes remote](https://github.com/mischah/itunes-remote/) - Control iTunes via the CLI.
-- [fastack](https://github.com/fastack/cli) - A zero-configuration development tool that makes developing client-side-only apps easy
+*Awesome projects and applications built using Vorpal.*
 
+- [iTunes-remote](https://github.com/mischah/itunes-remote/) - Control iTunes on the CLI.
+- [wat](https://github.com/dthree/wat) - Community-built docs for every language, platform and library.
+- [metronome](https://github.com/AljoschaMeyer/metronome-cli) - A live metronome on the CLI.
+- [fastack](https://github.com/fastack/cli) - A zero-config tool that makes developing client-side apps easy.
+- [Vantage](https://github.com/dthree/vantage) - `CLI` + `SSH` + `REPL` for your live Node app.
 
-### Vorpal extensions
+## Extensions
 
-Vorpal supports community extensions, which add to the functionality of Vorpal programmatically or on the fly.
+*Extensions add to the functionality of Vorpal - programmatically or live.*
 
-##### POSIX implementations
+#### POSIX implementations
 
 - [less](https://github.com/vorpaljs/vorpal-less) - Implementation of the `less` command.
 - [grep](https://github.com/vorpaljs/vorpal-grep) - Implementation of the `grep` command.
 
-##### REPL
+#### Development tools
 
 - [repl](https://github.com/vorpaljs/vorpal-repl) - Drops your CLI into a REPL within your app's context.
+- [tour](https://github.com/vorpaljs/vorpal-tour) - Build an interactive tour for your Vorpal app.
+- [watch](https://github.com/vorpaljs/vorpal-watch) - Updates your live Vorpal extensions in realtime.
+- [log](https://github.com/AljoschaMeyer/vorpal-log) - Advanced logging utility.
 
-##### Realtime
+#### Realtime
 
 - [use](https://github.com/vorpaljs/vorpal-use) - Import Vorpal extensions live: while your app is running.
 
-##### Misc
+#### Fun
 
-- [tour](https://github.com/vorpaljs/vorpal-tour) - Build an interactive tour for your Vorpal app.
 - [hacker-news](https://github.com/vorpaljs/vorpal-hacker-news) - Pulls the top trending items from Hacker News.
 
-##### Vorpal development tools
-- [watch](https://github.com/vorpaljs/vorpal-watch) - Updates your live Vorpal extensions in realtime.
-- [setorprint](https://github.com/AljoschaMeyer/vorpal-setorprint) - Quickly generate commands which either set or print a parameter. Think instant getters/setters for the console.
-- [log](https://github.com/AljoschaMeyer/vorpal-log) - Logging utility for Vorpal - comes with logging levels, formatters, and is extensible.
-
-### Vantage-only extensions
-
-[Vantage.js](https://github.com/dthree/vantage) extends Vorpal, giving it client / server functionality. While Vantage supports all Vorpal extensions, the following extensions are only applicable to Vantage.
-
-- [Basic Authentication](https://github.com/vantagejs/vantage-auth-basic) - Basic authentication packaged with Vantage. Mirrors SSH authentication, however with credentials declared in the Node instance as opposed to PAM authentication.
-
-### Contribute
+## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
-### License
+## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
