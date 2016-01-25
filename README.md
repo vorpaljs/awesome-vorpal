@@ -1,10 +1,27 @@
 # Awesome Vorpal.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of delightful [Vorpal.js](https://github.com/dthree/vorpal)-based projects and extensions. Vorpal is Node's first framework for building immersive CLI applications. 
+A curated list of delightful [Vorpal](https://github.com/dthree/vorpal)-based projects and extensions. 
+
+[Vorpal is Node's first framework for building immersive CLI applications.](https://github.com/dthree/vorpal) 
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
-### Projects built with Vorpal
+## Community 
+
+- [Chat](https://gitter.im/dthree/vorpal)
+- [Stack Overflow](http://stackoverflow.com/questions/tagged/vorpal.js)
+
+## Tutorials
+
+- [By Brian Rinaldi] (http://developer.telerik.com/featured/creating-node-js-command-line-utilities-improve-workflow/)
+
+An excellent introduction to Vorpal, Brian Rinaldi from Telerik walks you through developing a sophisticated Vorpal app from scratch. 
+
+- [By Ramon Gebben](http://daily-javascript.com/articles/vorpal/)
+
+A brief introduction to Vorpal by the author of [daily-javascript.com](daily-javascript.com).
+
+## Projects built with Vorpal
 
 - [wat](https://github.com/dthree/wat) - Community-built syntax cheat-sheets for every language, platform and library.
 - [vantage.js](https://github.com/dthree/vantage) - Vorpal with wings: `CLI` + `SSH` + `REPL` for your live Node app.
@@ -12,9 +29,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [itunes remote](https://github.com/mischah/itunes-remote/) - Control iTunes via the CLI.
 - [fastack](https://github.com/fastack/cli) - A zero-configuration development tool that makes developing client-side-only apps easy
 
-### Community / Tutorials
-
-- [Tutorial by Brian Rinaldi] (http://developer.telerik.com/featured/creating-node-js-command-line-utilities-improve-workflow/)
 
 ### Vorpal extensions
 
