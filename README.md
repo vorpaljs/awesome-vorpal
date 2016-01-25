@@ -58,7 +58,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [repl](https://github.com/vorpaljs/vorpal-repl) - Drops your CLI into a REPL within your app's context.
 - [tour](https://github.com/vorpaljs/vorpal-tour) - Build an interactive tour for your Vorpal app.
-- [watch](https://github.com/vorpaljs/vorpal-watch) - Updates your live Vorpal extensions in realtime.
+- [watch](https://github.com/vantagejs/vantage-watch) - Updates your live Vorpal extensions in realtime.
 - [log](https://github.com/AljoschaMeyer/vorpal-log) - Advanced logging utility.
 
 #### Realtime
