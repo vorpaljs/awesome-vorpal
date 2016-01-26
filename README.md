@@ -61,7 +61,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [tour](https://github.com/vorpaljs/vorpal-tour) - Build an interactive tour for your Vorpal app.
 - [watch](https://github.com/vantagejs/vantage-watch) - Updates your live Vorpal extensions in realtime.
 - [log](https://github.com/AljoschaMeyer/vorpal-log) - Advanced logging utility.
-- [set-or-print](https://github.com/andrerpena/quotr) - Easily set / get arguments with commands.
+- [set-or-print](https://github.com/AljoschaMeyer/vorpal-setorprint) - Easily set / get arguments with commands.
 
 #### Realtime
 
