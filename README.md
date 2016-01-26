@@ -43,6 +43,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [metronome](https://github.com/AljoschaMeyer/metronome-cli) - A live metronome on the CLI.
 - [fastack](https://github.com/fastack/cli) - A zero-config tool that makes developing client-side apps easy.
 - [cbcluster](https://www.npmjs.com/package/cbcluster) - CLI for Couchbase Server Clusters.
+- [quotr](https://github.com/andrerpena/quotr) - View stock exchange quotes.
 - [Vantage](https://github.com/dthree/vantage) - `CLI` + `SSH` + `REPL` for your live Node app.
 
 ## Extensions
@@ -60,6 +61,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [tour](https://github.com/vorpaljs/vorpal-tour) - Build an interactive tour for your Vorpal app.
 - [watch](https://github.com/vantagejs/vantage-watch) - Updates your live Vorpal extensions in realtime.
 - [log](https://github.com/AljoschaMeyer/vorpal-log) - Advanced logging utility.
+- [set-or-print](https://github.com/andrerpena/quotr) - Easily set / get arguments with commands.
 
 #### Realtime
 
