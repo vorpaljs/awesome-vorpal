@@ -46,6 +46,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [cbcluster](https://www.npmjs.com/package/cbcluster) - CLI for Couchbase Server Clusters.
 - [quotr](https://github.com/andrerpena/quotr) - View stock exchange quotes.
 - [Vantage](https://github.com/dthree/vantage) - `CLI` + `SSH` + `REPL` for your live Node app.
+- [birdknife](https://github.com/vanita5/birdknife) - A full featured [Twitter](https://twitter.com/) CLI.
 
 ## Extensions
 
