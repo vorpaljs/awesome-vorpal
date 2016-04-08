@@ -1,8 +1,8 @@
 # Awesome Vorpal [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of delightful [Vorpal](https://github.com/dthree/vorpal)-based projects and extensions. 
+A curated list of delightful [Vorpal](https://github.com/dthree/vorpal)-based projects and extensions.
 
-[Vorpal is Node's first framework for building immersive CLI applications.](https://github.com/dthree/vorpal) 
+[Vorpal is Node's first framework for building immersive CLI applications.](https://github.com/dthree/vorpal)
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
@@ -15,7 +15,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Contribute](#contribute)
 - [License](#license)
 
-## Community 
+## Community
 
 - [Chat](https://gitter.im/dthree/vorpal)
 - [Stack Overflow](http://stackoverflow.com/questions/tagged/vorpal.js)
@@ -25,7 +25,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [By Brian Rinaldi] (http://developer.telerik.com/featured/creating-node-js-command-line-utilities-improve-workflow/)
 
-  An excellent introduction to Vorpal, Brian Rinaldi from Telerik walks you through developing a sophisticated Vorpal app from scratch. 
+  An excellent introduction to Vorpal, Brian Rinaldi from Telerik walks you through developing a sophisticated Vorpal app from scratch.
 
 - [By Ramon Gebben](http://daily-javascript.com/articles/vorpal/)
 
@@ -72,6 +72,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 #### Fun
 
 - [hacker-news](https://github.com/vorpaljs/vorpal-hacker-news) - Pulls the top trending items from Hacker News.
+
+#### Toolbox
+- [rc](https://github.com/subk/vorpal-rc) - Simple .rc file support.
 
 ## Contribute
 
