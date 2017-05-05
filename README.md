@@ -23,7 +23,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Tutorials
 
-- [By Brian Rinaldi] (http://developer.telerik.com/featured/creating-node-js-command-line-utilities-improve-workflow/)
+- [By Brian Rinaldi](http://developer.telerik.com/featured/creating-node-js-command-line-utilities-improve-workflow/)
 
   An excellent introduction to Vorpal, Brian Rinaldi from Telerik walks you through developing a sophisticated Vorpal app from scratch.
 
