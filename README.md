@@ -63,6 +63,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 #### Development tools
 
 - [repl](https://github.com/vorpaljs/vorpal-repl) - Drops your CLI into a REPL within your app's context.
+- [replinception](https://github.com/AdrieanKhisbe/vorpal-REPLinception) - Open a node REPL/console with configured context.
 - [tour](https://github.com/vorpaljs/vorpal-tour) - Build an interactive tour for your Vorpal app.
 - [watch](https://github.com/vantagejs/vantage-watch) - Updates your live Vorpal extensions in realtime.
 - [log](https://github.com/AljoschaMeyer/vorpal-log) - Advanced logging utility.
