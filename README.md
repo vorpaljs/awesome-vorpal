@@ -50,6 +50,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [tv-remote-cli](https://github.com/Glavin001/tv-remote-cli) - CLI for remotely controlling your Smart TV.
 - [launch](https://github.com/NewSpring/meteor-launch) - Automating meteor builds to the AppStore, TestFlight, Hockey, Google Play, and more
 - [lifxsh](https://github.com/ristomatti/lifxsh) - Interactive shell for controlling [LIFX](http://www.lifx.com) smart lights.
+- [Wechaty Vorpal](https://github.com/wechaty/wechaty-vorpal) - Using Vorpal Commands with Chatbots.
 
 ## Extensions
 
