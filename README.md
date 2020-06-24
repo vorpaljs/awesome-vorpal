@@ -67,6 +67,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [watch](https://github.com/vantagejs/vantage-watch) - Updates your live Vorpal extensions in realtime.
 - [log](https://github.com/AljoschaMeyer/vorpal-log) - Advanced logging utility.
 - [set-or-print](https://github.com/AljoschaMeyer/vorpal-setorprint) - Easily set / get arguments with commands.
+- [Wechaty Vorpal Contrib](https://github.com/wechaty/wechaty-vorpal-contrib/) - CLI commands for Wechaty Chatbot
 
 #### Realtime
 
